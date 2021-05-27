@@ -1,0 +1,22 @@
+html {
+  /*background-image: url("https://source.unsplash.com/random");*/
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+}
+h4 {
+  display: flex;
+  justify-content: center;
+  color: #440a67;
+  /*background-color: yellow;*/
+  border-radius: 5px;
+}
+
+.main-div {
+  justify-content: center;
+  /*border: 2px solid black;
+  border-radius: 10px;*/
+  margin-top: 12rem;
+  background-color: rgba(255, 255, 255, 0.5);
+}
